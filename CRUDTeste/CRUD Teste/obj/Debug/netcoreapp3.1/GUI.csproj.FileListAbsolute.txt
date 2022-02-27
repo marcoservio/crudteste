@@ -1,0 +1,70 @@
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\Interop.Accessibility.dll
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.csproj.AssemblyReference.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\Interop.Accessibility.dll
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.csproj.ResolveComReference.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.addFuncionario.resources
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.frmPrincipal.resources
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.Properties.Resources.resources
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.frmBackupBancoDeDados.resources
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\MySqlBackup.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.exe
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.deps.json
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\GUI.pdb
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\MySqlBackup.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\Interop.Accessibility.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.csproj.AssemblyReference.cache
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\Interop.Accessibility.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.csproj.ResolveComReference.cache
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.frmBackupBancoDeDados.resources
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.addFuncionario.resources
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.frmPrincipal.resources
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.Properties.Resources.resources
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.dll
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.pdb
+D:\Marco\Teste CRUD\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\CRUD Teste.exe
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\CRUD Teste.deps.json
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\CRUD Teste.runtimeconfig.json
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\CRUD Teste.runtimeconfig.dev.json
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\CRUD Teste.dll
+C:\Marco\CRUD Teste\CRUD Teste\bin\Debug\netcoreapp3.1\CRUD Teste.pdb
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD Teste.AssemblyInfoInputs.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD Teste.AssemblyInfo.cs
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD Teste.csproj.CoreCompileInputs.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD Teste.dll
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD Teste.pdb
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD Teste.genruntimeconfig.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.Form1.resources
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD Teste.csproj.GenerateResource.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD Teste.csproj.AssemblyReference.cache
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.addFuncionario.resources
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Marco\CRUD Teste\CRUD Teste\obj\Debug\netcoreapp3.1\CRUD_Teste.Properties.Resources.resources
